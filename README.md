@@ -1,2 +1,2 @@
 # OpenFOAM
-we upload cavity case 
+we uploaded a cavity case 
