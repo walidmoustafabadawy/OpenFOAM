@@ -1,2 +1,2 @@
 # OpenFOAM
-Chosen Turorials from OpenFoam 
+Turorials from OpenFoam 
